@@ -1,4 +1,4 @@
-#NAME  •••••••••••• >INTELSAT 27,5W< •••••••••••• 
+#NAME ¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦ >INTELSAT 27,5W< ¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦
 #SERVICE 1:0:19:4484:1000:1:cfdace7:0:0:0:
 #SERVICE 1:0:19:4440:1000:1:cfdace7:0:0:0:
 #SERVICE 1:0:19:4600:1000:1:cfdace7:0:0:0:
@@ -21,7 +21,6 @@
 #SERVICE 1:0:1:1280:1000:1:cfdace7:0:0:0:
 #SERVICE 1:0:1:1c00:1000:1:cfdace7:0:0:0:
 #SERVICE 1:0:1:10bf:1000:1:cfdace7:0:0:0:
-#SERVICE 1:0:1:10c0:1000:1:cfdace7:0:0:0:
 #SERVICE 1:0:c:32:1000:1:cfdace7:0:0:0:
 #SERVICE 1:0:1:1140:1000:1:cfdace7:0:0:0:
 #SERVICE 1:0:1:1200:1000:1:cfdace7:0:0:0:

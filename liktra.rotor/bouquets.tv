@@ -74,6 +74,7 @@
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe3d.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe4a.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe71.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe01.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe5a.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe72.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe8a.tv
@@ -87,8 +88,8 @@
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe74.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe76.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe77.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe78.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe79.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe78.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe81.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe82.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe84.tv

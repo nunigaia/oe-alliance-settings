@@ -22,7 +22,6 @@
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe22.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe23.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe70.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe24.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe28.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe29.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe0e.tv
@@ -128,7 +127,6 @@
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe123.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe4c.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe124.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe01.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe7f.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe126.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe2d.tv
@@ -144,16 +142,16 @@
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe135.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe137.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe136.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe138.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe139.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe138.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe142.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe140.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe141.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe143.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe145.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe146.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe07.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe147.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe146.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe148.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe0d.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe150.tv
@@ -165,3 +163,4 @@
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe8e.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe153.tv
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe155.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.favourites.tv
